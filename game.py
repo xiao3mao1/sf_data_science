@@ -10,7 +10,7 @@ while True:
 
     elif predict_number < number:
         print("Число должно быть больше!")
-
+#lhlkhkjhkjhkj
     else:
         print(f"Вы угадали число! Это число = {number}, за {count} попыток")
         break # конец игры, выход из цикла
